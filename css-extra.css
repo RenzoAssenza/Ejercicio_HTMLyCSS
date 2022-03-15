@@ -1,0 +1,44 @@
+.general{
+    position: relative;
+    margin: 150px;
+    width: 1300px;
+    height: 400px; 
+    background-color: rgb(175, 134, 202);
+ 
+} 
+#image-inicio {
+    size-adjust: auto;
+
+}
+h1.display-3{
+    text-align: center;
+}
+.cuadrado{
+ position: absolute;
+    width: 400px;
+    height: 310px;
+    top: 40px;
+    left: 500px;
+    background-color: rgb(226, 224, 212);
+    border-radius: 15px;
+ 
+}
+ 
+h1{
+    padding-top: 10px;
+}
+
+img.rounded{
+    border-radius: 10px;
+    width: 350px;
+    height: 350px;
+    padding-left: 30px;
+    padding-top: 40px; 
+    
+}
+
+#boton{
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+}
