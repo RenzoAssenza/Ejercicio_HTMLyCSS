@@ -34,7 +34,7 @@ header .navbar {
     
 
 }
-h1.display-3{
+h1.display-4{
     text-align: center;
 }
 .cuadrado{
@@ -80,12 +80,10 @@ div img.rounded{
     color: white;
     background-color: grey;
     text-align: center;
-    margin-right: 400px;
+    
 }
- div .tablaa{
-text-align: center;
-margin-right: 400px;
-
+.container {
+ border-radius: 40px;
 }
 #registro{
     margin-top: 100px;
