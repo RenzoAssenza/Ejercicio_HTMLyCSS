@@ -1,13 +1,37 @@
+body{
+    background-color: rgb(132, 157, 180);
+    background-image: url(wallpsper.jpg);
+        background-size: cover;
+        background-attachment: fixed;
+        min-height: 100vh;
+               
+}
+#typewriter {
+
+ 
+
+    color: white;
+    text-align: center;
+    
+}
+#subti{
+    color: whitesmoke;
+}
+header .navbar {
+    background-color: transparent !important;
+  }
+  
 .general{
     position: relative;
     margin: 150px;
     width: 1300px;
     height: 400px; 
     background-color: rgb(175, 134, 202);
- 
+    border-radius:  60px;
 } 
 #image-inicio {
     size-adjust: auto;
+    
 
 }
 h1.display-3{
@@ -20,7 +44,7 @@ h1.display-3{
     top: 40px;
     left: 500px;
     background-color: rgb(226, 224, 212);
-    border-radius: 15px;
+   border-radius:  60px;
  
 }
  
@@ -28,8 +52,8 @@ h1{
     padding-top: 10px;
 }
 
-img.rounded{
-    border-radius: 10px;
+div img.rounded{
+    border-radius: 60px;
     width: 350px;
     height: 350px;
     padding-left: 30px;
@@ -41,4 +65,32 @@ img.rounded{
     padding-left: 10px;
     padding-right: 10px;
     text-align: center;
+}
+
+#cont2{
+     position: relative;
+    left: 400px;
+    top: -570px;
+    
+      
+}
+
+#tabla{
+    margin-top: 100px;
+    color: white;
+    background-color: grey;
+    text-align: center;
+    margin-right: 400px;
+}
+ div .tablaa{
+text-align: center;
+margin-right: 400px;
+
+}
+#registro{
+    margin-top: 100px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: white;
+    background-color: grey;
 }
